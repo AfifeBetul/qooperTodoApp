@@ -1,0 +1,35 @@
+:root {
+  --white: #ffffff;
+  --black: #171725;
+  --gray02: #fcfcfc;
+  --gray03: #f1f1f5;
+  --gray04: #92929d;
+  --blue01: #0062ff;
+  --purple01: #7000ff;
+  --red01: #ff4545;
+  --topbar-height: 77px;
+  --transition: all 0.3s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.header01,
+h1 {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.text01 {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+}
+
+.text02 {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+}
